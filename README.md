@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NHernandez8976
+- 👀 I’m interested in computer science, gaming, and running
+- 🌱 I’m currently learning C++ and Python
+- 📫 How to reach me ...
+- Email: NHernandez8976@gmail.com
